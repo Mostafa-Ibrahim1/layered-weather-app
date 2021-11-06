@@ -1,6 +1,6 @@
 # Weather App Version 2 ⛅
 This one contains the same logic as 
-https://github.com/Mostafa-Ibrahim1/weather-app<br><br>
+the older version<br><br>
 **Which is:**
 * getting the name of the address from the user that the user wants to know the weather of
 * then fetching the geolocation of that address
